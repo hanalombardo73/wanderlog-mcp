@@ -26,3 +26,4 @@ Notes and usage details for wanderlog-mcp.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- link the usage section
